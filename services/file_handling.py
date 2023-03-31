@@ -1,5 +1,5 @@
 BOOK_PATH = '/home/gotcrab/PycharmProjects/book_bot/books/book.txt'
-PAGE_SIZE = 1050
+PAGE_SIZE = 900
 
 book: dict[int, str] = {}
 
